@@ -1,1 +1,18 @@
-anything
+Question 1 : Do tech related workers have more mentl issues than other non-tech related employees?
+Columns from the data set to answer the above questions:
+- If a mental health issues prompted you to request a medical leave from work, how easy or difficult would it 
+be to ask for that leave?
+- Has your employer ever formally discussed mental health (for example, as part of a wellness campaign 
+or other official communication)?
+-Does your employer offer resources to learn more about mental health disorders and options for seeking help?
+
+Question 2 : Are more considerations given to the mental health of non-tech workers in comparison with
+tech-related workers?
+Overall, how much importance does your employer place on mental health?
+
+Question 3 : Are tech workers likely to keep mental health issue to themselves compared to non-tech workers?
+Columns from the data set to answer the above questions:
+Would you feel more comfortable talking to your coworkers about your physical health or your mental health?
+Have you ever discussed your mental health with your employer?
+Would you feel comfortable discussing a mental health issue with your coworkers?
+Have you ever discussed your mental health with coworkers?
