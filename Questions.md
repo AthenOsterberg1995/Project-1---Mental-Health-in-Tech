@@ -1,3 +1,6 @@
+# QUESTIONS
+
+## Athen
 Questions to answer - based on columns in 2017 data
 1. Participants with/without mental health disorders vs provided mental health benefits in healthcare
 2. Participants with/without mental health disorders vs provided health resources in work environment
@@ -11,3 +14,11 @@ Questions to answer - based on columns in 2017 data
 10. Participants with/without mental health disorders vs experienced/observed poorly handled response in workplace
 11. Participants with/without mental health disorders vs history of mental health issues in family
 12. Trends in all of these by year/gender/age
+
+## Maia
+- How much importance did employers place on mental health before and after the pandemic?
+- How comfortable did employees feel discussing mental health with their direct supervisor(s) before and after the pandemic?
+
+## Giacomo
+- What correlations of demographics (gender, age, country) are present amongst healthcare access and awareness
+- How do these results compare between tech and non-tech companies?
