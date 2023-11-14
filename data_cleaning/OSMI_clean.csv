@@ -753,8 +753,8 @@ tech company,employer provided healthcare with mental benefits,employer provided
 1.0,I don't know,No,No,,No,0.0,Yes,Very easy,Yes,Yes,26-100,3.0,Maybe/Not sure,"Yes, I observed",41.0,Male,United Kingdom,,2017
 1.0,Yes,No,Yes,Yes,No,1.0,Yes,Very easy,Yes,Yes,6-25,3.0,Maybe/Not sure,"Yes, I experienced",40.0,Male,United States of America,White,2017
 ,,,Yes,Yes,Yes,,,,,,,,,,,,,,2017
-,,,Yes,Yes,Yes,,,,,,,,,,,,,,2017
 1.0,Yes,Yes,Possibly,,No,1.0,No,Very easy,Yes,No,26-100,2.0,No,No,30.0,dude,United States of America,White,2017
+,,,Yes,Yes,Yes,,,,,,,,,,,,,,2017
 1.0,Yes,Yes,Possibly,,Yes,1.0,Yes,Somewhat difficult,No,No,More than 1000,2.0,"Yes, I observed","Yes, I observed",57.0,Female,Canada,,2018
 1.0,Yes,Yes,Yes,Yes,Yes,0.0,I don't know,Somewhat difficult,No,No,More than 1000,3.0,No,No,29.0,male,United States of America,White,2018
 0.0,Yes,Yes,No,,Yes,0.0,I don't know,Somewhat easy,No,No,6-25,3.0,No,Maybe/Not sure,46.0,Male,United States of America,White,2018
@@ -1172,6 +1172,358 @@ tech company,employer provided healthcare with mental benefits,employer provided
 0.0,Yes,Yes,Yes,Yes,I don't know,0.0,I don't know,I don't know,Maybe,Maybe,100-500,3.0,No,No,31.0,Male,United States of America,,2018
 1.0,Yes,Yes,Possibly,,I don't know,1.0,I don't know,Somewhat easy,Yes,Yes,6-25,2.0,Maybe/Not sure,Maybe/Not sure,27.0,Male,United States of America,White,2018
 0.0,Yes,Yes,Yes,Yes,I don't know,0.0,Yes,I don't know,No,Yes,More than 1000,2.0,"Yes, I observed",Maybe/Not sure,35.0,Male,United States of America,White,2018
+True,I don't know,No,Don't Know,,No,False,I don't know,Very easy,Yes,Yes,26-100,4.0,No,Maybe/Not sure,25.0,Male,United States of America,White,2019
+True,Yes,No,Possibly,,Yes,False,Yes,I don't know,Maybe,Maybe,26-100,1.0,"Yes, I observed","Yes, I experienced",51.0,male,United States of America,White,2019
+True,I don't know,No,No,,I don't know,False,I don't know,Somewhat difficult,No,Maybe,26-100,2.0,Maybe/Not sure,"Yes, I observed",27.0,Male,United States of America,White,2019
+True,I don't know,No,No,,Yes,False,Yes,Very easy,Yes,Maybe,100-500,3.0,No,"Yes, I observed",37.0,male,United States of America,White,2019
+True,I don't know,No,No,,No,False,I don't know,I don't know,No,No,26-100,3.0,No,No,46.0,m,United States of America,White,2019
+True,Yes,No,Yes,Yes,Yes,False,I don't know,Somewhat difficult,No,Yes,100-500,3.0,No,Maybe/Not sure,36.0,female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,Yes,Somewhat easy,Maybe,Maybe,26-100,3.0,No,No,39.0,Female,United States of America,White,2019
+,,,Possibly,,Yes,,,,,,,3.0,Maybe/Not sure,No,35.0,Male,United States of America,White,2019
+True,Yes,No,No,,No,False,Yes,Very easy,Yes,Yes,26-100,2.0,No,No,49.0,,United Kingdom,,2019
+True,I don't know,,Possibly,,I don't know,False,I don't know,Somewhat easy,Yes,Maybe,6-25,3.0,"Yes, I observed",Maybe/Not sure,45.0,Male,United Kingdom,,2019
+True,Yes,Yes,Possibly,,No,True,Yes,Very easy,Yes,Yes,100-500,4.0,Maybe/Not sure,"Yes, I experienced",40.0,M,United Kingdom,,2019
+,,,No,,No,,,,,,,2.0,No,"Yes, I observed",37.0,male,Netherlands,,2019
+True,I don't know,No,Possibly,,Yes,False,Yes,Somewhat easy,Yes,Maybe,More than 1000,3.0,No,Maybe/Not sure,31.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,Somewhat difficult,Yes,Yes,500-1000,4.0,No,No,37.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,No,False,I don't know,Somewhat difficult,No,No,100-500,3.0,"Yes, I observed","Yes, I observed",26.0,female,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,No,True,Yes,Neither easy nor difficult,Maybe,Maybe,100-500,3.0,No,Maybe/Not sure,43.0,M,Canada,,2019
+True,Yes,Yes,Possibly,,Yes,True,Yes,Somewhat easy,Yes,Yes,100-500,2.0,"Yes, I observed","Yes, I experienced",35.0,Male,United States of America,White,2019
+,,,No,,Yes,,,,,,,4.0,No,Maybe/Not sure,31.0,male,Turkey,,2019
+True,Yes,No,Possibly,,Yes,False,Yes,Very easy,Yes,Yes,100-500,3.0,"Yes, I observed","Yes, I observed",32.0,F,United States of America,I prefer not to answer,2019
+True,Yes,Yes,Yes,Yes,I don't know,False,I don't know,I don't know,Maybe,No,More than 1000,3.0,Maybe/Not sure,No,37.0,Male,United States of America,White,2019
+True,I don't know,No,No,,I don't know,True,I don't know,Somewhat easy,Maybe,Yes,6-25,3.0,No,No,41.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,I don't know,Yes,Yes,100-500,4.0,"Yes, I observed","Yes, I experienced",40.0,f,United States of America,I prefer not to answer,2019
+True,I don't know,No,Yes,Yes,I don't know,True,Yes,Neither easy nor difficult,Yes,Yes,500-1000,3.0,"Yes, I observed",Maybe/Not sure,37.0,male,United States of America,White,2019
+True,Yes,Yes,Possibly,,Yes,True,I don't know,Neither easy nor difficult,Maybe,No,100-500,2.0,"Yes, I experienced",No,53.0,"Let's keep it simple and say ""male""",United States of America,White,2019
+True,I don't know,No,No,,Yes,False,I don't know,Very easy,No,Yes,6-25,1.0,No,No,29.0,male,United States of America,More than one of the above,2019
+True,I don't know,No,Yes,Yes,Yes,True,I don't know,Somewhat easy,Yes,Yes,500-1000,5.0,No,"Yes, I observed",37.0,Male,United States of America,White,2019
+False,I don't know,No,Yes,Yes,Yes,False,I don't know,Somewhat easy,No,No,100-500,4.0,Maybe/Not sure,"Yes, I experienced",45.0,female,United States of America,White,2019
+True,I don't know,No,Possibly,,No,True,I don't know,Very easy,Yes,Yes,6-25,3.0,No,"Yes, I experienced",26.0,Male,Netherlands,,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,Very easy,Yes,Maybe,100-500,4.0,Maybe/Not sure,"Yes, I experienced",28.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,I don't know,True,I don't know,I don't know,Yes,No,100-500,3.0,No,No,24.0,Female,United States of America,White,2019
+True,Yes,Yes,Possibly,,Yes,False,I don't know,Very easy,Maybe,Maybe,100-500,4.0,"Yes, I observed",Maybe/Not sure,27.0,Male,United States of America,White,2019
+False,Yes,No,No,,No,False,I don't know,Somewhat easy,Yes,Maybe,100-500,3.0,Maybe/Not sure,Maybe/Not sure,42.0,Male,United States of America,White,2019
+,,,No,,No,,,,,,,4.0,No,No,53.0,Female,United States of America,White,2019
+False,Not eligible for coverage / NA,,Possibly,,No,False,I don't know,Very easy,Yes,Yes,100-500,2.0,"Yes, I observed","Yes, I observed",34.0,Male,United Kingdom,,2019
+False,Yes,Yes,Yes,Yes,I don't know,True,I don't know,Somewhat easy,Yes,Yes,500-1000,2.0,"Yes, I experienced","Yes, I experienced",23.0,Non-binary,United Kingdom,,2019
+False,I don't know,No,Don't Know,,I don't know,False,I don't know,Somewhat easy,Maybe,Maybe,More than 1000,4.0,No,No,34.0,M,United States of America,White,2019
+True,I don't know,No,Possibly,,Yes,False,Yes,Very easy,Yes,Yes,6-25,4.0,No,No,27.0,Male,United States of America,White,2019
+True,Yes,Yes,Possibly,,I don't know,False,I don't know,Somewhat easy,No,Maybe,100-500,3.0,Maybe/Not sure,"Yes, I observed",31.0,Male,United States of America,White,2019
+,,,No,,No,,,,,,,3.0,"Yes, I observed","Yes, I observed",30.0,Male,Belgium,,2019
+,,,Yes,Yes,No,,,,,,,3.0,Maybe/Not sure,Maybe/Not sure,58.0,Male,United States of America,White,2019
+False,Yes,Yes,No,,No,False,Yes,Somewhat difficult,Yes,Yes,More than 1000,3.0,No,No,50.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,Somewhat easy,Yes,Maybe,100-500,2.0,Maybe/Not sure,No,41.0,Male,United States of America,White,2019
+True,I don't know,No,Possibly,,No,False,I don't know,Neither easy nor difficult,No,No,26-100,1.0,"Yes, I observed",No,40.0,male,Croatia,,2019
+,,,Yes,Yes,I don't know,,,,,,,1.0,No,Maybe/Not sure,28.0,Male,Belgium,,2019
+True,Yes,Yes,No,,No,True,Yes,Somewhat difficult,Maybe,Yes,1-5,2.0,No,No,49.0,Identify as male,United Kingdom,,2019
+False,I don't know,No,Yes,Yes,Yes,True,I don't know,Very easy,Yes,Yes,More than 1000,2.0,No,"Yes, I experienced",37.0,Male,United States of America,White,2019
+,,,Yes,Yes,I don't know,,,,,,,4.0,Maybe/Not sure,Maybe/Not sure,36.0,m,United States of America,White,2019
+False,Yes,Yes,Possibly,,No,True,Yes,Very easy,Yes,Yes,6-25,1.0,"Yes, I experienced","Yes, I experienced",52.0,Male,United States of America,White,2019
+False,Yes,Yes,No,,I don't know,False,I don't know,Very easy,Yes,Maybe,More than 1000,2.0,No,No,33.0,,Canada,,2019
+,,,No,,I don't know,,,,,,,3.0,No,"Yes, I observed",54.0,Female,Canada,,2019
+,,,Don't Know,,No,,,,,,,1.0,No,No,38.0,Male,United Kingdom,,2019
+,,,Yes,Yes,No,,,,,,,3.0,Maybe/Not sure,Maybe/Not sure,64.0,Male,United Kingdom,,2019
+,,,Don't Know,,No,,,,,,,1.0,No,No,40.0,Male,United Kingdom,,2019
+True,Yes,Yes,Yes,Yes,I don't know,False,I don't know,I don't know,No,No,26-100,3.0,Maybe/Not sure,No,37.0,Male,United States of America,White,2019
+False,I don't know,No,Yes,Yes,No,False,I don't know,Somewhat difficult,Yes,Maybe,More than 1000,4.0,"Yes, I experienced",No,53.0,Female,United States of America,White,2019
+True,No,,No,,I don't know,False,I don't know,Somewhat easy,Maybe,Maybe,6-25,2.0,Maybe/Not sure,No,55.0,male,United Kingdom,,2019
+True,I don't know,Yes,Possibly,,Yes,True,Yes,Somewhat difficult,Maybe,No,6-25,2.0,"Yes, I experienced",Maybe/Not sure,30.0,Male,United States of America,I prefer not to answer,2019
+False,Yes,No,No,,Yes,False,I don't know,Somewhat easy,No,Maybe,500-1000,1.0,"Yes, I observed","Yes, I experienced",35.0,Male,United States of America,White,2019
+False,Yes,Yes,Possibly,,Yes,False,Yes,Somewhat difficult,Maybe,No,More than 1000,3.0,No,"Yes, I experienced",60.0,Male ,Canada,,2019
+False,Yes,Yes,No,,No,False,Yes,Somewhat easy,Maybe,No,100-500,3.0,Maybe/Not sure,Maybe/Not sure,34.0,female,United States of America,White,2019
+False,No,No,No,,Yes,True,I don't know,Difficult,No,No,More than 1000,2.0,"Yes, I observed","Yes, I observed",35.0,Male,United States of America,White,2019
+False,Yes,No,Possibly,,Yes,False,I don't know,Somewhat difficult,No,No,More than 1000,2.0,No,No,34.0,Male,United States of America,White,2019
+True,I don't know,No,Don't Know,,Yes,True,Yes,Very easy,Yes,No,26-100,4.0,No,No,28.0,Male,United States of America,White,2019
+True,I don't know,No,Yes,Yes,Yes,False,I don't know,Neither easy nor difficult,Maybe,Yes,26-100,2.0,"Yes, I experienced",No,28.0,Woman,United States of America,White,2019
+True,I don't know,Yes,No,,No,False,Yes,Somewhat difficult,Maybe,Yes,26-100,2.0,"Yes, I experienced",Maybe/Not sure,36.0,,United Kingdom,,2019
+True,No,No,Don't Know,,I don't know,False,No,Somewhat difficult,Yes,No,6-25,3.0,Maybe/Not sure,Maybe/Not sure,24.0,Male,Ghana,,2019
+,,,No,,I don't know,,,,,,,2.0,Maybe/Not sure,Maybe/Not sure,50.0,Male,United States of America,White,2019
+True,Yes,No,Possibly,,I don't know,False,I don't know,I don't know,No,Maybe,More than 1000,2.0,Maybe/Not sure,"Yes, I observed",55.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,No,True,Yes,Neither easy nor difficult,Yes,Maybe,26-100,3.0,"Yes, I experienced",No,32.0,Male,Norway,,2019
+True,Yes,Yes,Possibly,,I don't know,True,Yes,Somewhat difficult,Yes,Yes,500-1000,3.0,"Yes, I experienced",Maybe/Not sure,33.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,I don't know,Maybe,No,500-1000,4.0,No,Maybe/Not sure,30.0,Female,Portugal,,2019
+True,Yes,No,Possibly,,Yes,False,Yes,Very easy,Yes,Yes,500-1000,4.0,"Yes, I experienced","Yes, I experienced",30.0,Male,Portugal,,2019
+True,Yes,Yes,No,,I don't know,False,I don't know,I don't know,Maybe,Maybe,100-500,3.0,No,No,34.0,Male,Portugal,,2019
+True,No,No,Possibly,,Yes,False,I don't know,Very easy,Yes,Maybe,100-500,3.0,No,Maybe/Not sure,36.0,Female,Portugal,,2019
+True,No,,Yes,Yes,Yes,False,I don't know,Somewhat easy,Maybe,Maybe,100-500,2.0,Maybe/Not sure,No,30.0,Male,Portugal,,2019
+True,No,,No,,No,False,No,I don't know,No,Maybe,1-5,2.0,No,Maybe/Not sure,29.0,Male,Portugal,,2019
+True,No,No,No,,Yes,False,No,Somewhat easy,Yes,No,500-1000,3.0,No,No,34.0,M,Portugal,,2019
+True,No,Yes,Possibly,,No,True,No,Very easy,Yes,Yes,100-500,3.0,Maybe/Not sure,"Yes, I experienced",40.0,M,Portugal,,2019
+True,Not eligible for coverage / NA,,Possibly,,I don't know,False,I don't know,I don't know,No,No,500-1000,3.0,Maybe/Not sure,Maybe/Not sure,31.0,Non binary,Portugal,,2019
+True,I don't know,No,No,,Yes,False,Yes,I don't know,Maybe,Maybe,100-500,4.0,No,No,27.0,Masculine,Portugal,,2019
+False,Yes,Yes,Possibly,,Yes,False,Yes,Somewhat easy,Yes,Yes,More than 1000,4.0,No,Maybe/Not sure,47.0,M,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,False,Yes,Difficult,Maybe,Maybe,100-500,3.0,No,No,24.0,Female,United States of America,White,2019
+True,Yes,Yes,No,,No,False,Yes,Somewhat easy,Yes,Maybe,100-500,1.0,No,No,36.0,Male,Portugal,,2019
+True,I don't know,No,No,,I don't know,False,I don't know,Neither easy nor difficult,Maybe,Yes,100-500,2.0,No,Maybe/Not sure,28.0,male,Portugal,,2019
+True,Yes,Yes,No,,No,True,I don't know,Somewhat easy,Maybe,Maybe,500-1000,2.0,Maybe/Not sure,"Yes, I observed",34.0,Male,United Kingdom,,2019
+True,I don't know,No,No,,No,False,I don't know,Somewhat easy,Yes,Yes,100-500,2.0,No,"Yes, I observed",28.0,Male,Portugal,,2019
+True,Yes,Yes,No,,Yes,False,I don't know,I don't know,No,No,500-1000,2.0,"Yes, I observed",No,36.0,M,Portugal,,2019
+True,Yes,Yes,Don't Know,,I don't know,False,Yes,Somewhat easy,Yes,Maybe,100-500,4.0,No,No,24.0,male,Portugal,,2019
+True,Yes,Yes,Possibly,,Yes,False,Yes,I don't know,Maybe,Maybe,6-25,4.0,No,"Yes, I experienced",32.0,Cishet male,United States of America,White,2019
+False,No,No,Yes,Yes,I don't know,False,Yes,Very easy,Maybe,Yes,26-100,2.0,Maybe/Not sure,"Yes, I observed",33.0,Male,United Kingdom,,2019
+True,I don't know,No,No,,I don't know,False,I don't know,Somewhat easy,Maybe,Maybe,100-500,3.0,No,"Yes, I observed",39.0,Male,United States of America,More than one of the above,2019
+False,Yes,Yes,Yes,Yes,I don't know,False,I don't know,I don't know,No,No,More than 1000,3.0,"Yes, I experienced",No,26.0,female,United States of America,More than one of the above,2019
+True,Yes,Yes,Yes,Yes,Yes,False,I don't know,Somewhat easy,Maybe,Yes,100-500,3.0,Maybe/Not sure,"Yes, I observed",32.0,Female,United States of America,White,2019
+True,Yes,No,No,,I don't know,False,Yes,Somewhat easy,Yes,Yes,26-100,3.0,No,No,42.0,Male,United Kingdom,,2019
+True,Yes,Yes,Yes,Yes,I don't know,False,I don't know,I don't know,No,Maybe,More than 1000,2.0,"Yes, I observed","Yes, I observed",41.0,M,United States of America,White,2019
+True,Yes,Yes,Possibly,,Yes,False,I don't know,Somewhat difficult,No,Maybe,100-500,2.0,"Yes, I experienced","Yes, I observed",32.0,Male,Canada,,2019
+False,No,Yes,Don't Know,,Yes,False,I don't know,I don't know,No,No,More than 1000,1.0,No,No,32.0,F,United States of America,White,2019
+True,Yes,No,No,,Yes,False,I don't know,Very easy,Yes,Yes,100-500,3.0,No,Maybe/Not sure,31.0,Female,United States of America,White,2019
+True,Not eligible for coverage / NA,,Yes,Yes,Yes,False,I don't know,Somewhat easy,Maybe,Yes,100-500,3.0,"Yes, I experienced","Yes, I observed",34.0,Non-binary,Switzerland,,2019
+True,Yes,No,Possibly,,Yes,False,I don't know,Difficult,No,No,More than 1000,2.0,"Yes, I observed",No,36.0,,United Kingdom,,2019
+True,I don't know,No,No,,No,False,Yes,Very easy,Yes,No,100-500,3.0,"Yes, I observed","Yes, I experienced",33.0,male,Switzerland,,2019
+True,I don't know,No,Yes,Yes,Yes,False,Yes,Somewhat easy,Maybe,Maybe,26-100,3.0,No,"Yes, I experienced",30.0,male,United States of America,White,2019
+True,I don't know,Yes,Yes,Yes,Yes,True,I don't know,Difficult,Maybe,Yes,26-100,1.0,"Yes, I experienced","Yes, I experienced",45.0,Female,United States of America,White,2019
+True,Yes,No,No,,No,False,I don't know,Very easy,Yes,Yes,More than 1000,4.0,No,"Yes, I observed",30.0,Male,United States of America,White,2019
+,,,Possibly,,Yes,,,,,,,3.0,No,No,48.0,Male,United Kingdom,,2019
+True,Yes,No,Possibly,,I don't know,False,I don't know,Somewhat difficult,No,Maybe,100-500,3.0,"Yes, I observed",Maybe/Not sure,29.0,Male,Portugal,,2019
+,,,Yes,Yes,I don't know,,,,,,,2.0,"Yes, I experienced",No,35.0,Female-identified,Canada,,2019
+True,I don't know,No,Yes,No,I don't know,False,I don't know,I don't know,No,Maybe,100-500,1.0,"Yes, I observed",Maybe/Not sure,41.0,Male,United States of America,White,2019
+False,Yes,Yes,Possibly,,Yes,False,Yes,Neither easy nor difficult,Maybe,Yes,26-100,3.0,No,"Yes, I experienced",27.0,F,United States of America,White,2019
+True,Yes,Yes,Possibly,,I don't know,True,Yes,Very easy,Yes,Yes,6-25,2.0,No,No,42.0,Male,United States of America,White,2019
+True,I don't know,No,Possibly,,Yes,False,I don't know,I don't know,Yes,Yes,100-500,2.0,No,Maybe/Not sure,32.0,male,United States of America,White,2019
+True,I don't know,No,No,,No,False,I don't know,Very easy,Yes,Maybe,100-500,4.0,No,No,32.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,Yes,Very easy,No,No,1-5,2.0,No,No,20.0,Woman,United States of America,White,2019
+,,,Yes,Yes,Yes,,,,,,,2.0,Maybe/Not sure,"Yes, I experienced",24.0,woman,United States of America,White,2019
+False,I don't know,No,No,,No,False,I don't know,Very easy,Yes,Maybe,500-1000,4.0,No,Maybe/Not sure,0.0,male,United States of America,White,2019
+True,I don't know,No,No,,No,False,I don't know,Very easy,Yes,Maybe,26-100,3.0,No,"Yes, I observed",38.0,Male,United States of America,White,2019
+True,I don't know,Yes,Yes,Yes,I don't know,False,I don't know,Neither easy nor difficult,Maybe,Maybe,6-25,3.0,Maybe/Not sure,Maybe/Not sure,31.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,Yes,Somewhat difficult,No,No,26-100,4.0,"Yes, I experienced","Yes, I experienced",26.0,M,United States of America,More than one of the above,2019
+True,Yes,No,Yes,Yes,Yes,True,Yes,Somewhat easy,Yes,Yes,26-100,4.0,Maybe/Not sure,"Yes, I experienced",40.0,Male,United States of America,White,2019
+False,Yes,No,Yes,Yes,Yes,False,I don't know,Somewhat easy,Maybe,Maybe,6-25,2.0,No,Maybe/Not sure,30.0,male,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,No,False,I don't know,Very easy,Maybe,Maybe,26-100,1.0,"Yes, I experienced",No,38.0,Male,United States of America,White,2019
+True,Yes,Yes,No,,No,True,I don't know,Somewhat easy,Yes,Maybe,More than 1000,4.0,No,No,28.0,male,United States of America,White,2019
+False,Not eligible for coverage / NA,No,Don't Know,,No,False,I don't know,Somewhat difficult,No,No,More than 1000,2.0,Maybe/Not sure,Maybe/Not sure,28.0,Female,Pakistan,,2019
+True,Yes,No,Yes,Yes,Yes,True,I don't know,I don't know,No,No,More than 1000,1.0,"Yes, I experienced",No,30.0,Male,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,True,I don't know,Neither easy nor difficult,Yes,Yes,More than 1000,3.0,No,"Yes, I observed",23.0,Nonbinary,United States of America,White,2019
+True,I don't know,No,Don't Know,,I don't know,True,I don't know,I don't know,Yes,Yes,More than 1000,5.0,Maybe/Not sure,No,30.0,male,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,True,I don't know,Somewhat easy,Yes,Maybe,More than 1000,4.0,Maybe/Not sure,"Yes, I experienced",33.0,female,United States of America,White,2019
+False,Yes,Yes,No,,Yes,False,Yes,Somewhat difficult,No,Yes,500-1000,3.0,No,No,53.0,Female,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,I don't know,True,Yes,Neither easy nor difficult,Maybe,Maybe,More than 1000,2.0,"Yes, I observed","Yes, I experienced",38.0,Male,United States of America,White,2019
+True,No,,Possibly,,No,False,I don't know,Somewhat easy,Maybe,Maybe,26-100,1.0,Maybe/Not sure,No,34.0,male,Poland,,2019
+False,I don't know,No,No,,I don't know,False,I don't know,Somewhat easy,Yes,No,More than 1000,4.0,No,No,40.0,Male,United States of America,White,2019
+True,Yes,No,No,,Yes,False,I don't know,I don't know,Yes,Maybe,More than 1000,4.0,No,No,42.0,Male,United States of America,Asian,2019
+True,Yes,No,Yes,Yes,I don't know,True,I don't know,Somewhat easy,Yes,Yes,6-25,3.0,No,Maybe/Not sure,42.0,Male,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,I don't know,False,I don't know,I don't know,Maybe,Maybe,26-100,3.0,No,No,38.0,Male,Canada,,2019
+False,Yes,Yes,Yes,Yes,Yes,True,Yes,Somewhat easy,Maybe,Maybe,More than 1000,2.0,Maybe/Not sure,"Yes, I experienced",33.0,agender,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,Yes,I don't know,Maybe,Maybe,100-500,4.0,Maybe/Not sure,"Yes, I experienced",35.0,Male,United States of America,White,2019
+True,No,,Possibly,,I don't know,False,I don't know,Somewhat easy,No,No,100-500,2.0,No,No,27.0,Female,Spain,,2019
+False,Not eligible for coverage / NA,Yes,No,,No,True,I don't know,Somewhat easy,Yes,Maybe,More than 1000,3.0,No,No,28.0,Female,Turkey,,2019
+True,No,No,Yes,No,No,False,No,Somewhat easy,No,No,More than 1000,1.0,No,No,42.0,Male,India,,2019
+True,I don't know,,Don't Know,,I don't know,False,I don't know,I don't know,Maybe,Maybe,More than 1000,4.0,I've always been self-employed,Maybe/Not sure,35.0,f,Brazil,,2019
+False,Yes,Yes,No,,No,False,Yes,Somewhat difficult,No,Maybe,More than 1000,3.0,No,No,40.0,Male,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,False,I don't know,Somewhat difficult,No,No,100-500,2.0,"Yes, I experienced",No,54.0,female,United States of America,White,2019
+True,Yes,No,No,,Yes,False,I don't know,Very easy,Yes,Maybe,100-500,3.0,Maybe/Not sure,Maybe/Not sure,37.0,male,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,I don't know,True,Yes,Somewhat difficult,No,Maybe,More than 1000,4.0,No,"Yes, I experienced",26.0,Female,United States of America,White,2019
+False,I don't know,No,Possibly,,I don't know,False,I don't know,I don't know,No,Maybe,100-500,1.0,Maybe/Not sure,No,37.0,Male,Brazil,,2019
+False,Yes,Yes,Yes,Yes,I don't know,False,I don't know,Somewhat easy,No,No,More than 1000,1.0,"Yes, I observed",No,49.0,Female,United States of America,White,2019
+False,I don't know,No,No,,No,False,Yes,Somewhat easy,Maybe,Maybe,More than 1000,4.0,"Yes, I observed","Yes, I observed",23.0,Male,United States of America,Asian,2019
+True,Yes,No,Yes,Yes,I don't know,True,Yes,Very easy,Yes,Yes,100-500,3.0,Maybe/Not sure,"Yes, I experienced",42.0,Female,United Kingdom,,2019
+True,Yes,No,Possibly,,No,True,Yes,Difficult,No,No,More than 1000,2.0,Maybe/Not sure,"Yes, I observed",49.0,Male,Netherlands,,2019
+,,,Don't Know,,No,,,,,,,3.0,Maybe/Not sure,Maybe/Not sure,38.0,male,Poland,,2019
+True,I don't know,No,No,,Yes,False,I don't know,Somewhat difficult,No,No,100-500,3.0,"Yes, I observed",Maybe/Not sure,41.0,F,United Kingdom,,2019
+True,Yes,Yes,No,,No,True,Yes,Somewhat easy,Yes,Yes,100-500,3.0,No,"Yes, I observed",33.0,male,United Kingdom,,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,Somewhat easy,Yes,Yes,26-100,2.0,No,"Yes, I observed",27.0,Man,United States of America,White,2019
+False,Yes,Yes,No,,No,False,I don't know,Somewhat easy,No,No,More than 1000,1.0,No,No,47.0,male,United Kingdom,,2019
+True,I don't know,No,Yes,Yes,Yes,False,Yes,Somewhat difficult,Maybe,No,100-500,2.0,No,No,28.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,I don't know,Somewhat difficult,Maybe,Maybe,More than 1000,1.0,"Yes, I observed",No,49.0,Female,Canada,,2019
+False,I don't know,No,Possibly,,I don't know,False,Yes,Somewhat difficult,No,No,More than 1000,3.0,Maybe/Not sure,Maybe/Not sure,23.0,Male,United Kingdom,,2019
+False,Yes,Yes,Yes,Yes,I don't know,False,Yes,I don't know,Maybe,Maybe,More than 1000,1.0,No,No,23.0,Questioning,United States of America,Black or African American,2019
+,,,Yes,Yes,Yes,,,,,,,2.0,"Yes, I experienced",Maybe/Not sure,38.0,cis male,United States of America,White,2019
+True,No,,Yes,Yes,Yes,True,Yes,Very easy,Yes,Yes,1-5,1.0,Maybe/Not sure,"Yes, I observed",45.0,Male,United States of America,White,2019
+,,,Possibly,,Yes,,,,,,,2.0,Maybe/Not sure,Maybe/Not sure,35.0,male,United States of America,White,2019
+,,,Yes,Yes,Yes,,,,,,,4.0,Maybe/Not sure,"Yes, I observed",51.0,Male,Austria,,2019
+,,,No,,Yes,,,,,,,3.0,"Yes, I experienced","Yes, I experienced",34.0,female,United States of America,White,2019
+True,Yes,Yes,Possibly,,Yes,True,I don't know,Somewhat easy,Yes,Maybe,26-100,2.0,Maybe/Not sure,Maybe/Not sure,29.0,male,United States of America,White,2019
+True,I don't know,No,Possibly,,I don't know,False,I don't know,Somewhat easy,Maybe,Maybe,26-100,1.0,No,Maybe/Not sure,40.0,Male,United States of America,White,2019
+,,,Possibly,,No,,,,,,,4.0,No,"Yes, I experienced",38.0,male,Germany,,2019
+True,Yes,No,Yes,Yes,Yes,False,I don't know,I don't know,No,Maybe,26-100,2.0,"Yes, I experienced",No,32.0,Cis Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,Difficult,Yes,Maybe,More than 1000,2.0,"Yes, I observed","Yes, I experienced",22.0,female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,Yes,Very easy,Yes,Maybe,1-5,2.0,Maybe/Not sure,"Yes, I experienced",28.0,Male,United States of America,White,2019
+True,I don't know,No,Yes,Yes,I don't know,False,I don't know,I don't know,No,No,More than 1000,1.0,Maybe/Not sure,No,29.0,female,United States of America,White,2019
+,,,No,,No,,,,,,,3.0,No,Maybe/Not sure,32.0,I have a penis,United States of America,White,2019
+True,Yes,No,Yes,Yes,Yes,False,I don't know,I don't know,Maybe,Yes,100-500,3.0,"Yes, I experienced",Maybe/Not sure,38.0,female,United States of America,White,2019
+True,I don't know,No,No,,No,False,I don't know,Very easy,No,Maybe,26-100,2.0,No,No,30.0,Male,United States of America,Hispanic,2019
+False,Yes,Yes,Yes,Yes,Yes,False,I don't know,Neither easy nor difficult,No,No,More than 1000,2.0,Maybe/Not sure,Maybe/Not sure,37.0,Female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,I don't know,Difficult,Maybe,Maybe,More than 1000,2.0,No,No,38.0,Female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,Difficult,Maybe,Maybe,100-500,1.0,"Yes, I experienced","Yes, I experienced",51.0,F,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,True,Yes,Very easy,Maybe,Maybe,More than 1000,2.0,No,"Yes, I experienced",39.0,Male,United States of America,White,2019
+False,Yes,No,Don't Know,,No,False,I don't know,I don't know,Yes,No,More than 1000,3.0,No,No,22.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,Yes,Very easy,No,Yes,More than 1000,3.0,"Yes, I experienced","Yes, I experienced",26.0,Male,United States of America,White,2019
+False,I don't know,No,Possibly,,Yes,False,No,Somewhat easy,No,No,100-500,1.0,"Yes, I observed",Maybe/Not sure,42.0,m,United States of America,More than one of the above,2019
+False,Not eligible for coverage / NA,No,Yes,Yes,No,True,I don't know,I don't know,No,No,100-500,1.0,"Yes, I observed",No,49.0,male,United Kingdom,,2019
+True,Yes,No,No,,Yes,False,Yes,Very easy,Yes,Yes,More than 1000,3.0,No,"Yes, I observed",48.0,Male,United Kingdom,,2019
+False,Yes,Yes,No,,Yes,False,Yes,Very easy,Maybe,No,More than 1000,3.0,"Yes, I experienced","Yes, I observed",25.0,male,Germany,,2019
+True,Not eligible for coverage / NA,,Yes,Yes,I don't know,True,I don't know,Very easy,Maybe,Maybe,6-25,5.0,No,"Yes, I observed",31.0,Male,Israel,,2019
+True,Yes,No,No,,No,False,Yes,Neither easy nor difficult,Maybe,Maybe,1-5,3.0,"Yes, I observed","Yes, I observed",63.0,Male,United States of America,White,2019
+True,No,No,Don't Know,,No,False,I don't know,Difficult,No,No,More than 1000,3.0,No,No,30.0,Female,Turkey,,2019
+True,I don't know,No,No,,I don't know,False,I don't know,Very easy,Maybe,Maybe,100-500,3.0,No,"Yes, I experienced",34.0,male,Switzerland,,2019
+True,No,,Possibly,,Yes,True,I don't know,Somewhat easy,Maybe,Yes,100-500,2.0,"Yes, I experienced","Yes, I experienced",41.0,Male,Netherlands,,2019
+False,No,No,Possibly,,Yes,True,No,Very easy,Yes,Maybe,More than 1000,2.0,"Yes, I experienced","Yes, I experienced",31.0,Male,Norway,,2019
+False,I don't know,No,No,,Yes,False,I don't know,Very easy,Yes,Maybe,More than 1000,3.0,Maybe/Not sure,"Yes, I experienced",29.0,Woman,Norway,,2019
+False,Yes,No,Possibly,,Yes,False,I don't know,Somewhat easy,No,No,More than 1000,3.0,Maybe/Not sure,Maybe/Not sure,29.0,Male,United States of America,White,2019
+,,,Yes,Yes,Yes,,,,,,,3.0,"Yes, I experienced",Maybe/Not sure,44.0,rr,United States of America,Black or African American,2019
+True,I don't know,No,Possibly,,No,False,I don't know,Somewhat difficult,Maybe,Yes,More than 1000,1.0,No,Maybe/Not sure,32.0,male,United States of America,White,2019
+False,I don't know,No,No,,Yes,False,I don't know,Very easy,Maybe,Maybe,More than 1000,2.0,Maybe/Not sure,Maybe/Not sure,28.0,Male,Norway,,2019
+False,Yes,Yes,Yes,Yes,I don't know,False,Yes,Neither easy nor difficult,Maybe,Maybe,More than 1000,4.0,Maybe/Not sure,Maybe/Not sure,36.0,Male,United States of America,White,2019
+True,I don't know,No,Don't Know,,Yes,False,I don't know,Somewhat difficult,No,Maybe,More than 1000,2.0,"Yes, I observed","Yes, I experienced",28.0,cis woman,United States of America,White,2019
+,,,Yes,Yes,Yes,,,,,,,2.0,No,No,30.0,Female,United States of America,White,2019
+False,Yes,Yes,No,,No,False,I don't know,Very easy,Yes,Yes,More than 1000,3.0,No,No,36.0,Male,United States of America,White,2019
+True,Yes,No,Yes,Yes,Yes,True,I don't know,Somewhat difficult,Maybe,Maybe,6-25,2.0,No,No,40.0,Male,United States of America,White,2019
+True,I don't know,No,Don't Know,,No,False,I don't know,Somewhat easy,Yes,Maybe,100-500,3.0,"Yes, I observed",Maybe/Not sure,27.0,Male,United States of America,White,2019
+False,Yes,No,Yes,Yes,Yes,True,I don't know,Very easy,Yes,Maybe,More than 1000,2.0,Maybe/Not sure,"Yes, I experienced",28.0,female,Norway,,2019
+True,Yes,Yes,Yes,Yes,Yes,True,Yes,Somewhat easy,Yes,Yes,More than 1000,3.0,"Yes, I experienced","Yes, I experienced",34.0,male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,I don't know,True,I don't know,Somewhat easy,Yes,Yes,6-25,4.0,"Yes, I observed","Yes, I experienced",34.0,Male,United States of America,White,2019
+,,,Yes,Yes,Yes,,,,,,,3.0,Maybe/Not sure,No,34.0,Female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,I don't know,Maybe,Maybe,100-500,1.0,"Yes, I observed","Yes, I experienced",27.0,Female,United States of America,White,2019
+True,Yes,Yes,Possibly,,Yes,False,Yes,Neither easy nor difficult,Maybe,Maybe,More than 1000,3.0,Maybe/Not sure,Maybe/Not sure,44.0,female,United States of America,White,2019
+False,No,No,Yes,Yes,I don't know,True,I don't know,Neither easy nor difficult,No,No,100-500,2.0,No,No,36.0,Male,Mexico,,2019
+False,Yes,Yes,Yes,Yes,Yes,True,I don't know,Very easy,Yes,Yes,More than 1000,3.0,No,No,31.0,female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,No,False,I don't know,Neither easy nor difficult,Yes,Yes,100-500,2.0,Maybe/Not sure,"Yes, I experienced",26.0,Agender trans woman,United States of America,More than one of the above,2019
+True,Yes,Yes,No,,No,True,Yes,Very easy,Yes,Yes,6-25,3.0,No,Maybe/Not sure,39.0,male,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,True,Yes,Very easy,Yes,Yes,More than 1000,3.0,Maybe/Not sure,"Yes, I experienced",36.0,Female,United States of America,White,2019
+True,Not eligible for coverage / NA,Yes,Yes,Yes,Yes,False,Yes,Somewhat easy,Maybe,Maybe,6-25,3.0,"Yes, I experienced","Yes, I experienced",25.0,Female,United States of America,White,2019
+False,No,No,Yes,Yes,I don't know,False,I don't know,Very easy,No,No,More than 1000,1.0,"Yes, I experienced","Yes, I observed",47.0,m,Switzerland,,2019
+False,Yes,No,Possibly,,I don't know,True,I don't know,Somewhat easy,Yes,Yes,More than 1000,2.0,"Yes, I experienced",Maybe/Not sure,38.0,Male,United Kingdom,,2019
+True,I don't know,,Don't Know,,No,True,I don't know,Very easy,Maybe,Maybe,26-100,3.0,"Yes, I observed","Yes, I observed",33.0,male,Canada,,2019
+,,,Possibly,,I don't know,,,,,,,1.0,"Yes, I experienced",Maybe/Not sure,59.0,Female ,United Kingdom,,2019
+True,Yes,Yes,Possibly,,Yes,False,Yes,Very easy,Yes,Maybe,100-500,2.0,"Yes, I observed","Yes, I experienced",39.0,Male,United States of America,White,2019
+True,Not eligible for coverage / NA,,Yes,Yes,I don't know,False,Yes,I don't know,Maybe,No,100-500,3.0,No,Maybe/Not sure,19.0,female,United States of America,White,2019
+False,Not eligible for coverage / NA,,Yes,Yes,Yes,False,I don't know,Neither easy nor difficult,No,No,6-25,2.0,Maybe/Not sure,Maybe/Not sure,35.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,I don't know,Somewhat difficult,No,Maybe,26-100,3.0,Maybe/Not sure,No,38.0,male,United States of America,White,2019
+True,I don't know,Yes,No,,No,False,I don't know,Somewhat easy,No,Maybe,100-500,5.0,No,No,23.0,femmina,Italy,,2019
+False,Yes,Yes,Yes,Yes,Yes,True,Yes,Difficult,Yes,No,More than 1000,3.0,No,No,32.0,Male,United States of America,White,2019
+,,,Yes,Yes,Yes,,,,,,,3.0,No,"Yes, I experienced",39.0,male,United States of America,White,2019
+False,Yes,Yes,No,,No,False,Yes,Neither easy nor difficult,Maybe,Maybe,More than 1000,4.0,No,No,33.0,Male,United States of America,White,2019
+True,I don't know,No,Yes,Yes,No,True,Yes,Somewhat easy,Yes,Maybe,500-1000,4.0,"Yes, I observed",Maybe/Not sure,38.0,Female,New Zealand,,2019
+True,Yes,No,Possibly,,No,False,I don't know,Very easy,Maybe,Maybe,26-100,3.0,No,"Yes, I experienced",42.0,Male,United States of America,White,2019
+True,I don't know,Yes,Possibly,,No,False,I don't know,Difficult,No,Maybe,500-1000,1.0,Maybe/Not sure,No,39.0,female,United States of America,White,2019
+True,Not eligible for coverage / NA,No,Don't Know,,No,False,I don't know,Very easy,Yes,Yes,More than 1000,3.0,No,No,30.0,Male,Spain,,2019
+True,No,No,Possibly,,I don't know,True,I don't know,Very easy,Yes,Maybe,100-500,2.0,Maybe/Not sure,Maybe/Not sure,39.0,male,Germany,,2019
+True,I don't know,No,No,,Yes,False,I don't know,Very easy,Maybe,Maybe,500-1000,2.0,Maybe/Not sure,No,50.0,male,Italy,,2019
+False,I don't know,No,No,,No,False,I don't know,Somewhat easy,Maybe,Maybe,100-500,3.0,Maybe/Not sure,Maybe/Not sure,43.0,43,Portugal,,2019
+,,,Possibly,,No,,,,,,,3.0,No,"Yes, I experienced",59.0,Female,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,False,Yes,I don't know,Maybe,No,More than 1000,3.0,"Yes, I experienced",No,53.0,male,United States of America,White,2019
+True,Yes,No,No,,I don't know,False,I don't know,Very easy,Yes,Maybe,6-25,3.0,No,Maybe/Not sure,35.0,Male,United States of America,White,2019
+True,Yes,Yes,No,,Yes,False,Yes,Very easy,Yes,Yes,6-25,3.0,"Yes, I experienced","Yes, I observed",27.0,Female,Canada,,2019
+True,Yes,No,Possibly,,Yes,False,No,Somewhat easy,No,No,6-25,2.0,Maybe/Not sure,"Yes, I observed",24.0,female,Canada,,2019
+True,Yes,Yes,Yes,Yes,Yes,False,I don't know,Somewhat easy,Yes,Maybe,6-25,3.0,"Yes, I observed","Yes, I experienced",29.0,Trans man,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,I don't know,I don't know,Yes,No,More than 1000,1.0,"Yes, I observed",Maybe/Not sure,40.0,female,Ireland,,2019
+True,Not eligible for coverage / NA,,Don't Know,,No,False,I don't know,I don't know,Maybe,Maybe,100-500,2.0,"Yes, I observed","Yes, I observed",27.0,Male,France,,2019
+,,,No,,Yes,,,,,,,3.0,Maybe/Not sure,"Yes, I observed",46.0,Male,Canada,,2019
+True,No,No,Yes,Yes,No,False,No,Difficult,No,No,100-500,1.0,"Yes, I observed",No,39.0,male,Canada,,2019
+,,,Don't Know,,I don't know,,,,,,,5.0,No,No,19.0,man,Algeria,,2019
+True,No,No,No,,No,False,I don't know,Somewhat easy,No,Maybe,500-1000,3.0,Maybe/Not sure,Maybe/Not sure,28.0,male,Hong Kong,,2019
+False,I don't know,No,No,,Yes,False,Yes,Somewhat easy,Maybe,Maybe,More than 1000,3.0,"Yes, I observed","Yes, I observed",30.0,Male,United States of America,Asian,2019
+True,Yes,Yes,Yes,Yes,I don't know,False,I don't know,I don't know,Maybe,Yes,More than 1000,3.0,No,Maybe/Not sure,29.0,Female,United States of America,Black or African American,2019
+False,I don't know,No,No,,I don't know,False,I don't know,Somewhat difficult,Maybe,Yes,More than 1000,2.0,No,No,24.0,Male,United States of America,White,2019
+True,Not eligible for coverage / NA,No,Yes,Yes,Yes,True,I don't know,Somewhat easy,Yes,Yes,More than 1000,2.0,"Yes, I experienced","Yes, I experienced",25.0,Female,United States of America,White,2019
+False,I don't know,No,No,,I don't know,False,I don't know,I don't know,Maybe,Maybe,500-1000,3.0,No,No,45.0,M,United Kingdom,,2019
+True,Yes,Yes,Yes,Yes,No,False,Yes,I don't know,Maybe,No,More than 1000,2.0,No,No,37.0,Male,United States of America,Asian,2019
+True,I don't know,No,No,,Yes,False,I don't know,Very easy,Maybe,Maybe,6-25,3.0,No,Maybe/Not sure,22.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,Very easy,Yes,Yes,500-1000,3.0,"Yes, I observed","Yes, I experienced",35.0,Female,United States of America,White,2019
+False,I don't know,No,Yes,Yes,Yes,False,I don't know,I don't know,Maybe,No,More than 1000,2.0,No,Maybe/Not sure,50.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,I don't know,True,I don't know,Somewhat easy,Maybe,Yes,More than 1000,2.0,"Yes, I observed","Yes, I observed",45.0,Male,United States of America,White,2019
+False,Not eligible for coverage / NA,,Yes,Yes,I don't know,False,I don't know,I don't know,Yes,No,100-500,1.0,"Yes, I observed",No,49.0,Male,United Kingdom,,2019
+False,No,No,No,,No,False,I don't know,Difficult,Maybe,Yes,100-500,2.0,"Yes, I experienced",No,40.0,Male,United Kingdom,,2019
+,,,Possibly,,Yes,,,,,,,3.0,No,Maybe/Not sure,32.0,Male,Spain,,2019
+True,Yes,No,No,,No,False,Yes,Very easy,Yes,No,500-1000,3.0,Maybe/Not sure,Maybe/Not sure,38.0,F,Pakistan,,2019
+False,Yes,Yes,Possibly,,Yes,True,Yes,I don't know,Yes,Yes,More than 1000,2.0,Maybe/Not sure,No,37.0,M,United States of America,White,2019
+True,I don't know,No,Possibly,,No,True,I don't know,Neither easy nor difficult,Maybe,Yes,100-500,3.0,Maybe/Not sure,Maybe/Not sure,28.0,Woman,United States of America,White Hispanic,2019
+True,Yes,No,Don't Know,,No,False,Yes,Somewhat difficult,No,No,More than 1000,4.0,No,No,25.0,m,United States of America,Asian,2019
+,,,No,,Yes,,,,,,,4.0,No,"Yes, I observed",28.0,Male,Brazil,,2019
+True,Not eligible for coverage / NA,,Possibly,,Yes,False,I don't know,I don't know,Maybe,Maybe,6-25,3.0,No,No,38.0,Male,Brazil,,2019
+True,I don't know,No,No,,No,False,I don't know,Somewhat easy,No,Maybe,26-100,4.0,Maybe/Not sure,Maybe/Not sure,25.0,male,India,,2019
+True,Yes,Yes,Yes,No,I don't know,True,Yes,Very easy,Yes,Yes,6-25,2.0,Maybe/Not sure,"Yes, I observed",49.0,male,Canada,,2019
+False,Yes,No,Don't Know,,No,True,I don't know,Neither easy nor difficult,No,No,More than 1000,1.0,Maybe/Not sure,"Yes, I observed",19.0,masculino,Brazil,,2019
+,,,Don't Know,,No,,,,,,,4.0,No,"Yes, I observed",43.0,male,Brazil,,2019
+False,Yes,No,Don't Know,,No,True,No,Difficult,No,No,500-1000,2.0,Maybe/Not sure,Maybe/Not sure,31.0,Male,Brazil,,2019
+False,Yes,Yes,Yes,Yes,Yes,True,I don't know,Somewhat difficult,No,No,More than 1000,2.0,"Yes, I experienced","Yes, I observed",30.0,Male,Brazil,,2019
+False,I don't know,No,Yes,Yes,Yes,True,I don't know,Somewhat easy,Yes,Yes,More than 1000,3.0,"Yes, I experienced","Yes, I observed",39.0,male,Brazil,,2019
+False,Not eligible for coverage / NA,,Yes,Yes,No,True,I don't know,Very easy,Yes,No,100-500,1.0,"Yes, I observed",Maybe/Not sure,22.0,male,Brazil,,2019
+False,Yes,Yes,Yes,Yes,Yes,False,Yes,Difficult,No,No,More than 1000,2.0,"Yes, I observed","Yes, I experienced",29.0,Male,Brazil,,2019
+,,,Yes,Yes,Yes,,,,,,,2.0,Maybe/Not sure,"Yes, I experienced",30.0,Male,Brazil,,2019
+True,Yes,Yes,Yes,Yes,No,False,Yes,Somewhat difficult,No,Maybe,26-100,2.0,"Yes, I experienced",No,32.0,male,Brazil,,2019
+False,No,No,Yes,Yes,Yes,True,I don't know,I don't know,Maybe,No,More than 1000,4.0,No,"Yes, I experienced",41.0,Male,Brazil,,2019
+False,I don't know,No,Possibly,,No,False,I don't know,Neither easy nor difficult,Maybe,Maybe,More than 1000,2.0,No,Maybe/Not sure,27.0,F,Brazil,,2019
+,,,Possibly,,I don't know,,,,,,,3.0,I've always been self-employed,Maybe/Not sure,19.0,female,Indonesia,,2019
+True,Yes,Yes,Yes,Yes,I don't know,True,Yes,Somewhat easy,Yes,Maybe,500-1000,3.0,Maybe/Not sure,"Yes, I experienced",27.0,Male,United States of America,White,2019
+,,,Possibly,,I don't know,,,,,,,2.0,"Yes, I observed",No,31.0,Male,Brazil,,2019
+,,,No,,No,,,,,,,1.0,"Yes, I observed",No,25.0,Female,South Africa,,2019
+True,No,No,No,,I don't know,True,Yes,Somewhat difficult,No,No,More than 1000,1.0,"Yes, I observed",Maybe/Not sure,36.0,male,India,,2019
+False,No,No,Yes,Yes,Yes,False,I don't know,Neither easy nor difficult,No,Maybe,6-25,3.0,"Yes, I experienced",Maybe/Not sure,28.0,F,United States of America,White,2019
+True,Yes,Yes,Possibly,,I don't know,False,I don't know,Neither easy nor difficult,No,Maybe,500-1000,1.0,Maybe/Not sure,Maybe/Not sure,27.0,f,United States of America,Asian,2019
+True,Yes,Yes,Yes,Yes,Yes,True,Yes,Very easy,Yes,No,26-100,2.0,Maybe/Not sure,Maybe/Not sure,47.0,,United States of America,White,2019
+True,I don't know,No,Yes,Yes,I don't know,False,I don't know,I don't know,Maybe,Maybe,26-100,2.0,Maybe/Not sure,Maybe/Not sure,25.0,Male,India,,2019
+True,I don't know,No,No,,No,False,I don't know,Somewhat easy,Yes,Yes,100-500,3.0,Maybe/Not sure,"Yes, I experienced",30.0,female,United States of America,Asian,2019
+False,Not eligible for coverage / NA,No,Yes,Yes,Yes,False,I don't know,I don't know,No,No,100-500,1.0,"Yes, I experienced",No,45.0,M,United States of America,White,2019
+,,,Possibly,,Yes,,,,,,,3.0,No,No,41.0,I am a Wookie,Afghanistan,,2019
+True,No,,Possibly,,I don't know,False,No,Neither easy nor difficult,No,Maybe,6-25,2.0,"Yes, I experienced",No,24.0,Female,South Africa,,2019
+True,I don't know,No,No,,I don't know,False,Yes,Somewhat easy,No,Maybe,More than 1000,1.0,No,Maybe/Not sure,26.0,Female ,United States of America,Asian,2019
+True,Yes,Yes,Yes,Yes,Yes,False,I don't know,Neither easy nor difficult,No,No,More than 1000,1.0,"Yes, I experienced",No,32.0,female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,False,I don't know,Difficult,Maybe,Maybe,More than 1000,2.0,"Yes, I observed",Maybe/Not sure,43.0,female,United States of America,White,2019
+,,,No,,No,,,,,,,5.0,No,No,37.0,Male,United States of America,European American,2019
+False,I don't know,No,Yes,Yes,Yes,True,I don't know,Somewhat easy,Yes,Maybe,500-1000,2.0,"Yes, I observed","Yes, I observed",51.0,Make,United States of America,White,2019
+,,,No,,No,,,,,,,3.0,Maybe/Not sure,Maybe/Not sure,56.0,Male,United States of America,White,2019
+False,Yes,Yes,Possibly,,Yes,False,I don't know,Neither easy nor difficult,Yes,Maybe,500-1000,3.0,"Yes, I observed",Maybe/Not sure,30.0,Male,United States of America,White,2019
+True,I don't know,No,No,,Yes,False,I don't know,Somewhat easy,No,No,26-100,3.0,No,No,48.0,Trans non-binary/genderfluid,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,I don't know,False,I don't know,Somewhat difficult,No,No,100-500,2.0,Maybe/Not sure,"Yes, I experienced",28.0,Female,United States of America,More than one of the above,2019
+True,No,No,Yes,Yes,No,False,I don't know,Somewhat easy,Maybe,Yes,6-25,2.0,"Yes, I observed",No,26.0,Female,United States of America,White,2019
+False,No,,No,,No,False,No,Somewhat difficult,Yes,No,6-25,3.0,No,No,45.0,male,United States of America,White,2019
+True,Yes,Yes,No,,No,False,Yes,Somewhat easy,Maybe,No,26-100,4.0,Maybe/Not sure,Maybe/Not sure,37.0,m,Estonia,,2019
+True,Yes,No,Yes,Yes,I don't know,True,Yes,Very easy,Yes,Yes,100-500,3.0,Maybe/Not sure,"Yes, I experienced",42.0,Female,United Kingdom,,2019
+True,I don't know,No,Yes,Yes,I don't know,False,I don't know,Somewhat easy,No,Maybe,26-100,3.0,"Yes, I experienced","Yes, I experienced",34.0,Male,United States of America,Caucasian,2019
+True,I don't know,No,No,,Yes,False,I don't know,Difficult,No,Maybe,More than 1000,3.0,"Yes, I observed",Maybe/Not sure,35.0,Female,India,,2019
+False,Yes,No,Yes,Yes,No,False,I don't know,I don't know,No,Yes,More than 1000,1.0,No,"Yes, I experienced",28.0,male,Mexico,,2019
+True,I don't know,No,No,,I don't know,False,I don't know,Somewhat easy,Yes,Yes,26-100,3.0,Maybe/Not sure,Maybe/Not sure,26.0,Male,India,,2019
+False,I don't know,No,Don't Know,,No,False,No,Somewhat easy,No,No,100-500,3.0,No,No,34.0,F,India,,2019
+True,I don't know,No,No,,No,False,I don't know,Somewhat difficult,No,No,More than 1000,5.0,"Yes, I experienced","Yes, I experienced",28.0,,India,,2019
+True,Yes,Yes,No,,Yes,True,I don't know,Somewhat easy,Yes,Maybe,100-500,2.0,"Yes, I observed","Yes, I experienced",34.0,Female,United States of America,White,2019
+,,,No,,No,,,,,,,2.0,"Yes, I observed",No,45.0,Male,Ireland,,2019
+,,,Possibly,,I don't know,,,,,,,1.0,"Yes, I experienced",Maybe/Not sure,59.0,Female,United Kingdom,,2019
+True,I don't know,No,Yes,Yes,Yes,False,I don't know,Difficult,Maybe,Maybe,26-100,2.0,"Yes, I experienced",No,41.0,Male,United States of America,I prefer not to answer,2019
+False,Yes,No,Yes,Yes,Yes,True,Yes,Somewhat easy,Yes,Yes,More than 1000,3.0,Maybe/Not sure,"Yes, I experienced",38.0,,United States of America,White,2019
+True,Yes,Yes,No,,Yes,True,I don't know,Somewhat easy,No,Maybe,More than 1000,3.0,No,"Yes, I experienced",42.0,Female,United States of America,White,2019
+True,I don't know,,Yes,Yes,Yes,True,Yes,Very easy,Yes,Yes,100-500,3.0,No,"Yes, I experienced",21.0,Male,United States of America,White,2019
+True,Yes,Yes,No,,Yes,False,Yes,Somewhat difficult,Yes,Yes,26-100,3.0,"Yes, I observed","Yes, I experienced",30.0,female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,No,True,Yes,I don't know,Yes,Yes,100-500,3.0,No,Maybe/Not sure,46.0,CIS Male,United States of America,White,2019
+,,,Yes,Yes,Yes,,,,,,,3.0,"Yes, I observed","Yes, I experienced",36.0,female,United States of America,Black or African American,2019
+True,I don't know,Yes,No,,No,False,Yes,Somewhat difficult,Maybe,No,More than 1000,3.0,No,No,41.0,Male,India,,2019
+,,,Yes,Yes,No,,,,,,,3.0,No,No,33.0,Female,Portugal,,2019
+True,Yes,No,Yes,Yes,No,True,I don't know,Somewhat difficult,Yes,Maybe,1-5,4.0,"Yes, I observed",Maybe/Not sure,41.0,m,Estonia,,2019
+False,Yes,Yes,Possibly,,Yes,False,I don't know,Somewhat easy,No,No,More than 1000,2.0,No,Maybe/Not sure,25.0,Male,United Kingdom,,2019
+True,No,No,Yes,Yes,Yes,True,No,Somewhat difficult,No,Maybe,6-25,3.0,"Yes, I observed","Yes, I observed",27.0,agender,Germany,,2019
+True,I don't know,No,Yes,Yes,I don't know,False,I don't know,I don't know,No,Yes,More than 1000,2.0,"Yes, I experienced",No,47.0,Female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,I don't know,False,Yes,Somewhat easy,Yes,Maybe,26-100,3.0,No,No,24.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,No,True,Yes,Somewhat easy,Maybe,Yes,More than 1000,4.0,No,"Yes, I observed",40.0,male,United States of America,White,2019
+True,Yes,Yes,No,,I don't know,False,I don't know,Neither easy nor difficult,No,No,100-500,3.0,"Yes, I observed","Yes, I experienced",37.0,M,United States of America,White,2019
+True,I don't know,No,Don't Know,,I don't know,False,I don't know,Somewhat easy,Yes,Maybe,More than 1000,3.0,"Yes, I observed",Maybe/Not sure,38.0,Male,United States of America,White,2019
+True,I don't know,No,No,,No,False,I don't know,Somewhat difficult,Yes,Yes,More than 1000,1.0,"Yes, I observed",No,47.0,Male,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,Yes,Neither easy nor difficult,Yes,Maybe,More than 1000,3.0,"Yes, I observed","Yes, I observed",30.0,Female,United States of America,White,2019
+False,Not eligible for coverage / NA,,Possibly,,Yes,True,I don't know,Somewhat difficult,No,Maybe,26-100,3.0,"Yes, I observed",No,24.0,Female,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,True,Yes,Somewhat difficult,Maybe,Maybe,More than 1000,2.0,Maybe/Not sure,No,38.0,Female,United States of America,White,2019
+True,Yes,Yes,Yes,Yes,Yes,True,I don't know,Very easy,Yes,Yes,6-25,3.0,No,"Yes, I observed",42.0,Male,Canada,,2019
+True,No,No,No,,No,False,I don't know,Very easy,No,No,100-500,1.0,Maybe/Not sure,Maybe/Not sure,39.0,Male,Greece,,2019
+True,I don't know,No,Possibly,,I don't know,False,Yes,I don't know,Maybe,No,More than 1000,2.0,No,"Yes, I experienced",42.0,Male,United States of America,White,2019
+False,Yes,Yes,Yes,Yes,Yes,True,Yes,Very easy,Yes,Maybe,More than 1000,2.0,"Yes, I experienced","Yes, I experienced",47.0,male,United States of America,White,2019
+True,Yes,Yes,No,,No,False,Yes,I don't know,Yes,Yes,More than 1000,2.0,No,No,29.0,Male,Poland,,2019
+True,Yes,Yes,No,,Yes,False,I don't know,Somewhat easy,No,No,More than 1000,1.0,No,No,55.0,M,United States of America,More than one of the above,2019
+True,I don't know,No,Yes,Yes,Yes,False,I don't know,Very easy,Maybe,Maybe,500-1000,1.0,"Yes, I experienced",No,34.0,Non-binary and gender fluid,United States of America,I prefer not to answer,2019
+True,Yes,Yes,No,,No,False,Yes,Somewhat easy,Yes,Yes,More than 1000,4.0,Maybe/Not sure,Maybe/Not sure,45.0,Male,Japan,,2019
+False,I don't know,,No,,Yes,False,Yes,Neither easy nor difficult,Maybe,No,More than 1000,2.0,No,No,46.0,male,United Kingdom,,2019
+False,Yes,No,Possibly,,I don't know,False,I don't know,Somewhat difficult,No,Yes,More than 1000,2.0,No,No,23.0,Female,India,,2019
+False,No,No,Possibly,,Yes,False,No,Somewhat difficult,No,No,100-500,3.0,No,No,22.0,female,United States of America,White,2019
+True,No,,Yes,Yes,Yes,True,I don't know,Neither easy nor difficult,Maybe,Maybe,26-100,2.0,Maybe/Not sure,"Yes, I experienced",30.0,Male,New Zealand,,2019
+,,,Yes,Yes,I don't know,,,,,,,2.0,"Yes, I experienced","Yes, I experienced",27.0,Male,United States of America,I prefer not to answer,2019
+True,Yes,No,Yes,Yes,Yes,False,I don't know,Somewhat difficult,No,No,100-500,3.0,Maybe/Not sure,Maybe/Not sure,42.0,Female,United States of America,White,2019
+True,Yes,No,No,,Yes,True,Yes,Very easy,Yes,Yes,26-100,2.0,"Yes, I observed",No,26.0,Femile,Brazil,,2019
+True,No,No,No,,No,False,I don't know,Very easy,Maybe,No,6-25,3.0,No,No,31.0,female,United States of America,Asian,2019
+False,I don't know,No,Possibly,,No,False,I don't know,Somewhat difficult,No,No,More than 1000,3.0,"Yes, I observed",Maybe/Not sure,27.0,male,India,,2019
+,,,No,,No,,,,,,,3.0,"Yes, I observed",No,48.0,m,United States of America,White,2019
+,,,No,,No,,,,,,,5.0,I've always been self-employed,I've always been self-employed,50.0,M,India,,2019
+True,No,No,Possibly,,No,False,Yes,Difficult,No,Maybe,More than 1000,2.0,Maybe/Not sure,"Yes, I experienced",30.0,female,India,,2019
+True,Yes,Yes,Yes,Yes,Yes,True,Yes,Somewhat difficult,Maybe,No,More than 1000,3.0,Maybe/Not sure,No,24.0,Female (cis),United States of America,White,2019
 ,,,Don't Know,,Yes,,,,,,,2.0,Maybe/Not sure,"Yes, I experienced",45.0,Male,United States of America,White,2020
 ,,,Yes,Yes,Yes,,,,,,,5.0,"Yes, I observed","Yes, I observed",24.0,female,Russia,,2020
 ,,,Yes,No,Yes,,,,,,,1.0,"Yes, I experienced","Yes, I experienced",46.0,Male,India,,2020
