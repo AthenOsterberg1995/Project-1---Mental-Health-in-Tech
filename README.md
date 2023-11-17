@@ -1,6 +1,11 @@
 # Project-1---Mental-Health-in-Tech
 
-Project Questions
+Data Source:
+
+Our data set are the survey results from OSMH surveys taken between 2017 and 2021
+https://osmhhelp.org/research.html
+
+Project Questions:
 
 1. Observing trends by demographics
 A) What correlations can be found between demographics (gender, age) and awareness of mental healthcare benefits?
