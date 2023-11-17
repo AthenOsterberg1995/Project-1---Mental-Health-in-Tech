@@ -19,17 +19,6 @@ B) Are tech companies more likely than non-tech companies to offer mental health
 A) How much importance did employers place on mental health before and after the pandemic?
 B) How comfortable did employees feel discussing mental health with their direct supervisor(s) before and after the pandemic?
 
-Totals were obtained for each response by year and plotted onto bar charts for visual comparison.
-
-For question 3a, since the responses were numerical, the mean responses were calculated and an individual t-test was performed. A statistical analysis could not be performed for question 3b since the responses were non-numerical.
-
-Results: 
-3a) Analysis result: Although the mean response is higher in 2021 (2.67) compared to 2018 (2.53), it is not statistically significant (p-value=.16).
-3b) A higher percentage of employees answered "No" in 2021 than 2018. 
-
-Resources:
-Stack Overflow
-
 4. Observing trends among employees with/without existing mental health disorders
 A) Participants with/without mental health disorders vs protected anonymity
 B) Participants with/without mental health disorders vs ability to take mental health leave
