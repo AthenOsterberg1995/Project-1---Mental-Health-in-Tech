@@ -30,3 +30,21 @@ Stack Overflow
 A) Participants with/without mental health disorders vs protected anonymity
 B) Participants with/without mental health disorders vs ability to take mental health leave
 
+For observing trends in tech workers with/without mental disorders, I reduced the data down to rows only involving tech workers and then found the count of participants with/without mental health disorders as well as counts for participants responses for ease of asking for leave and ability to remain anonymous when using menatl health related benefits. 
+
+I then plotted the results on bar charts and ran poisson means tests on the results to determine their significance. 
+
+The difference in ratio was statistically significant between participants without diagnosed mental health disorders who found it very easy to ask for leave vs. both difficult and somewhat easy with P values of 0.008 and 0.00005 respectively. 
+
+The difference in ratio was not statistically significant between participants without diagnosed mental health disorders who can remain anonymous vs. can't remain anonymous with a P value of 0.69.
+
+Sources:
+code for calculating percentage of group
+https://stackoverflow.com/questions/75090908/pandas-matplotlib-bar-plot-with-multi-index-dataframe
+
+multiindex bar chart formatting:
+https://stackoverflow.com/questions/34248741/plotting-pandas-multiindex-bar-chart
+
+code for cropping chart correctly
+https://stackoverflow.com/questions/37427362/plt-show-shows-full-graph-but-savefig-is-cropping-the-image/37428142
+
